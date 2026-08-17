@@ -8,7 +8,7 @@ You can use an external 9-pin analog joystick at the same time.
 ### WARNING:
 - The Shift-Lowercase mod on the Apple II/II+ uses PB2 (pin 4 on the DIP-16) so DO NOT connect up a NES/SNES controller if your machine has this mod. (Your controller might be damaged.)
 - On the Apple IIe, shorting jumper X6 on the motherboard enables the shift-lowercase mod. The same warning applies.
-- Add a 10K resistor inline with PB2 (pin 4) if you want to ensure any Shift-Mod won't cause damage to your controller.
+- Add a 10K resistor inline with PB2 (pin 4) if you want to ensure any Shift-Mod won't potentially damage to your controller.
 
 ## Why this works
 
