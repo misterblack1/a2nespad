@@ -98,6 +98,9 @@ something.
 
 Tested on an Apple II+, Apple IIe and Apple IIgs. 
 
+Tested with original NES, SNES controllers along with some clone SNES and NES controllers.
+Please let me know if you run into any issues. 
+
 ## License
 
 Public domain, under the Unlicense. See `LICENSE`. Do whatever you want with
